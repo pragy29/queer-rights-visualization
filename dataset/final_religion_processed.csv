@@ -1,0 +1,235 @@
+"","Country","Religion","Population"
+"1","Afghanistan","Muslims",40610000
+"2","Albania","Muslims",2640000
+"3","Algeria","Muslims",39430000
+"4","American Samoa","Christians",60000
+"5","Andorra","Christians",70000
+"6","Angola","Christians",22190000
+"7","Anguilla","Christians",10000
+"8","Antigua & Barbuda","Christians",90000
+"9","Argentina","Christians",37420000
+"10","Armenia","Christians",3180000
+"11","Aruba","Christians",1e+05
+"12","Australia","Christians",15090000
+"13","Austria","Christians",6720000
+"14","Azerbaijan","Muslims",9870000
+"15","Bahamas","Christians",360000
+"16","Bahrain","Muslims",1020000
+"17","Bangladesh","Muslims",153010000
+"18","Barbados","Christians",270000
+"19","Belarus","Christians",6650000
+"20","Belgium","Christians",6590000
+"21","Belize","Christians",330000
+"22","Benin","Christians",6010000
+"23","Bermuda","Christians",50000
+"24","Bhutan","Buddhists",620000
+"25","Bolivia","Christians",11120000
+"26","Bosnia & Herzegovina","Christians",1810000
+"27","Botswana","Christians",1700000
+"28","Brazil","Christians",185430000
+"29","British Virgin Islands","Christians",30000
+"30","Brunei","Muslims",340000
+"31","Bulgaria","Christians",5580000
+"32","Burkina Faso","Muslims",14240000
+"33","Myanmar","Buddhists",41440000
+"34","Burundi","Christians",9180000
+"35","Cambodia","Buddhists",15690000
+"36","Cameroon","Christians",16750000
+"37","Canada","Christians",24280000
+"38","Cape Verde","Christians",510000
+"39","Caribbean Netherlands","Christians",20000
+"40","Cayman Islands","Christians",50000
+"41","Central African Republic","Christians",4770000
+"42","Chad","Muslims",8090000
+"43","Channel Islands","Christians",130000
+"44","Chile","Christians",16380000
+"45","China","Unaffiliated",720100000
+"46","Colombia","Christians",48150000
+"47","Comoros","Muslims",940000
+"48","Cook Islands","Christians",20000
+"49","Costa Rica","Christians",4780000
+"50","Croatia","Christians",4010000
+"51","Cuba","Christians",6610000
+"52","Curacao","Christians",160000
+"53","Cyprus","Christians",880000
+"54","Czechia","Unaffiliated",8280000
+"55","Democratic Republic of the Congo","Christians",81520000
+"56","Denmark","Christians",4640000
+"57","Djibouti","Muslims",1030000
+"58","Dominica","Christians",70000
+"59","Dominican Republic","Christians",9930000
+"60","Ecuador","Christians",15490000
+"61","Egypt","Muslims",90420000
+"62","El Salvador","Christians",5870000
+"63","Equatorial Guinea","Christians",770000
+"64","Eritrea","Christians",4230000
+"65","Estonia","Unaffiliated",770000
+"66","Ethiopia","Christians",62610000
+"67","Faeroe Islands","Christians",50000
+"68","Falkland Islands","Christians",10000
+"69","Micronesia","Christians",130000
+"70","Fiji","Christians",630000
+"71","Finland","Christians",4280000
+"72","France","Christians",37940000
+"73","French Guiana","Christians",240000
+"74","French Polynesia","Christians",280000
+"75","Gabon","Christians",1400000
+"76","Gambia","Muslims",2260000
+"77","Georgia","Christians",3690000
+"78","Germany","Christians",53190000
+"79","Ghana","Christians",22330000
+"80","Gibraltar","Christians",30000
+"81","Greece","Christians",9850000
+"82","Greenland","Christians",50000
+"83","Grenada","Christians",120000
+"84","Guadeloupe","Christians",470000
+"85","Guam","Christians",190000
+"86","Guatemala","Christians",17360000
+"87","Guinea","Muslims",10800000
+"88","Guinea-Bissau","Muslims",850000
+"89","Guyana","Christians",580000
+"90","Haiti","Christians",10040000
+"91","Honduras","Christians",7950000
+"92","Hong Kong","Unaffiliated",4090000
+"93","Hungary","Christians",7680000
+"94","Iceland","Christians",330000
+"95","India","Hindus",1093780000
+"96","Indonesia","Muslims",229620000
+"97","Iran","Muslims",80880000
+"98","Iraq","Muslims",41430000
+"99","Ireland","Christians",4590000
+"100","Isle of Man","Christians",80000
+"101","Israel","Jews",6360000
+"102","Italy","Christians",48720000
+"103","Ivory Coast","Christians",10690000
+"104","Jamaica","Christians",2270000
+"105","Japan","Unaffiliated",74780000
+"106","Jordan","Muslims",7410000
+"107","Kazakhstan","Muslims",12870000
+"108","Kenya","Christians",44460000
+"109","Kiribati","Christians",110000
+"110","Kosovo","Muslims",1750000
+"111","Kuwait","Muslims",2350000
+"112","Kyrgyzstan","Muslims",5540000
+"113","Laos","Buddhists",4630000
+"114","Latvia","Christians",1160000
+"115","Lebanon","Muslims",2780000
+"116","Lesotho","Christians",2310000
+"117","Liberia","Christians",4480000
+"118","Libya","Muslims",7170000
+"119","Liechtenstein","Christians",40000
+"120","Lithuania","Christians",2820000
+"121","Luxembourg","Christians",370000
+"122","Macau","Folk.Religions",340000
+"123","Madagascar","Christians",23200000
+"124","Malawi","Christians",17280000
+"125","Malaysia","Muslims",22070000
+"126","Maldives","Muslims",350000
+"127","Mali","Muslims",19610000
+"128","Malta","Christians",4e+05
+"129","Marshall Islands","Christians",50000
+"130","Martinique","Christians",4e+05
+"131","Mauritania","Muslims",4310000
+"132","Mauritius","Hindus",640000
+"133","Mayotte","Muslims",270000
+"134","Mexico","Christians",118570000
+"135","Moldova","Christians",3260000
+"136","Monaco","Christians",30000
+"137","Mongolia","Buddhists",1730000
+"138","Montenegro","Christians",490000
+"139","Montserrat","Christians",10000
+"140","Morocco","Muslims",35510000
+"141","Mozambique","Christians",16760000
+"142","Namibia","Christians",2600000
+"143","Nauru","Christians",10000
+"144","Nepal","Hindus",28600000
+"145","Netherlands","Christians",8070000
+"146","New Caledonia","Christians",230000
+"147","New Zealand","Christians",2540000
+"148","Nicaragua","Christians",5710000
+"149","Niger","Muslims",21660000
+"150","Nigeria","Muslims",104650000
+"151","Niue","Christians",10000
+"152","North Korea","Unaffiliated",18070000
+"153","Northern Mariana Islands","Christians",50000
+"154","Norway","Christians",4230000
+"155","Oman","Muslims",2890000
+"156","Pakistan","Muslims",200490000
+"157","Palau","Christians",20000
+"158","Palestine","Muslims",5250000
+"159","Panama","Christians",3720000
+"160","Papua New Guinea","Christians",8390000
+"161","Paraguay","Christians",7390000
+"162","Peru","Christians",31420000
+"163","Philippines","Christians",102320000
+"164","Poland","Christians",35120000
+"165","Portugal","Christians",9370000
+"166","Puerto Rico","Christians",3660000
+"167","Qatar","Muslims",1490000
+"168","Republic of Macedonia","Christians",1100000
+"169","Republic of the Congo","Christians",4480000
+"170","Reunion","Christians",820000
+"171","Romania","Christians",20320000
+"172","Russia","Christians",101900000
+"173","Rwanda","Christians",13230000
+"174","Samoa","Christians",220000
+"175","San Marino","Christians",30000
+"176","Sao Tome & Principe","Christians",170000
+"177","Saudi Arabia","Muslims",30690000
+"178","Senegal","Muslims",15480000
+"179","Serbia","Christians",7040000
+"180","Seychelles","Christians",90000
+"181","Sierra Leone","Muslims",5620000
+"182","Singapore","Buddhists",1890000
+"183","Sint Maarten","Christians",50000
+"184","Slovakia","Christians",4640000
+"185","Slovenia","Christians",1550000
+"186","Solomon Islands","Christians",670000
+"187","Somalia","Muslims",12110000
+"188","South Africa","Christians",43530000
+"189","South Korea","Unaffiliated",23250000
+"190","South Sudan","Christians",7530000
+"191","Spain","Christians",36410000
+"192","Sri Lanka","Buddhists",15440000
+"193","St. Helena","Christians",10000
+"194","St. Kitts and Nevis","Christians",60000
+"195","St. Lucia","Christians",180000
+"196","St. Pierre and Miquelon","Christians",10000
+"197","St. Vincent and the Grenadines","Christians",110000
+"198","Sudan","Muslims",38430000
+"199","Suriname","Christians",3e+05
+"200","Swaziland","Christians",1180000
+"201","Sweden","Christians",6210000
+"202","Switzerland","Christians",5530000
+"203","Syria","Muslims",22590000
+"204","Taiwan","Folk.Religions",10190000
+"205","Tajikistan","Muslims",8130000
+"206","Tanzania","Christians",38740000
+"207","Thailand","Buddhists",66120000
+"208","Timor-Leste","Christians",1520000
+"209","Togo","Christians",3070000
+"210","Tokelau","Christians",10000
+"211","Tonga","Christians",130000
+"212","Trinidad and Tobago","Christians",910000
+"213","Tunisia","Muslims",11440000
+"214","Turkey","Muslims",79090000
+"215","Turkmenistan","Muslims",5340000
+"216","Turks and Caicos","Christians",30000
+"217","Tuvalu","Christians",10000
+"218","U.S. Virgin Islands","Christians",110000
+"219","Uganda","Christians",39390000
+"220","Ukraine","Christians",36860000
+"221","United Arab Emirates","Muslims",6420000
+"222","United Kingdom","Christians",38020000
+"223","United States","Christians",252870000
+"224","Uruguay","Christians",1990000
+"225","Uzbekistan","Muslims",30180000
+"226","Vanuatu","Christians",280000
+"227","Vatican City","Christians",10000
+"228","Venezuela","Christians",29540000
+"229","Vietnam","Folk.Religions",43360000
+"230","Wallis and Futuna","Christians",10000
+"231","Western Sahara","Muslims",610000
+"232","Yemen","Muslims",32060000
+"233","Zambia","Christians",17510000
+"234","Zimbabwe","Christians",12720000
